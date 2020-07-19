@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombreCV">Nombre Mascota</string>
+    <string name="meGustasCV">#</string>
+    <string name="opcionMenu1">Ayuda</string>
+    <string name="opcionMenu2">Salir</string>
+</resources>
